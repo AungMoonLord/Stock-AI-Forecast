@@ -58,3 +58,8 @@
 
 ### แหล่งข้อมูลจาก
 https://finance.yahoo.com/quote/SNDK/
+
+
+### ลิงค์โหลดโปรแกรม
+
+https://drive.google.com/drive/folders/1srFWp1QOgn6aocGlp5JG9RxOz4VBHUhQ?usp=sharing
